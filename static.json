@@ -1,7 +1,8 @@
 {
   "headers": {
     "/*": {
-      "X-Author": "keit2011"
+      "X-Author": "keit2011",
+      "Access-Control-Allow-Origin": "*"
     }
   }
 }
